@@ -1,11 +1,17 @@
 # LinkedinCourses_ML
 
-This repository contains exercises I completed from multiple Linkedin Learning courses I tried.
+## This repository contains exercises I completed from multiple Linkedin Learning courses I tried.
 
 The course paths are:
 1) Become a Machine Learning Specialist (sections 1-4)
-* I stopped in the middle since I found it no longer relevant for me.
+    * I stopped in the middle since I found it no longer relevant for me.
 2) Advance Your Skills in Deep Learning and Neural Networks
+
+### Maaping Directories to Courses:
+
+* decision_trees -> Machine Learning and AI Foundations: Decision Trees with SPSS
+* recommendation_system -> Building a Recommendation System with Python Machine Learning & AI
+* working_with_keras -> Building Deep Learning Applications with Keras 2.0
 
 ### Datasets Sources:
 
