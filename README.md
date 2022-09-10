@@ -22,3 +22,4 @@ The course paths are:
     * MovieLens-100k - https://grouplens.org/datasets/movielens/100k/
     * mtcars - came from exercise files in linkedin
 * working_with_keras - All dataset were retrieved from the exercise files in the course "Building Deep Learning Applications with Keras 2.0"
+* face_recognition - All dataset were retrieved from the exercise files in the course "Deep Learning: Face Recognition"
