@@ -8,4 +8,4 @@
     * bank - https://archive.ics.uci.edu/ml/datasets/bank+marketing
         * There is a version the instructor created that can be found in linkedin learning exercise files
     * MovieLens-100k - https://grouplens.org/datasets/movielens/100k/
-    
+    * mtcars - came from exercise files in linkedin
