@@ -3,3 +3,4 @@ venv
 outputs
 logs
 *.jpg
+*.png
