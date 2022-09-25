@@ -23,3 +23,4 @@ The course paths are:
     * mtcars - came from exercise files in linkedin
 * working_with_keras - All dataset were retrieved from the exercise files in the course "Building Deep Learning Applications with Keras 2.0"
 * face_recognition - All dataset were retrieved from the exercise files in the course "Deep Learning: Face Recognition"
+* image_recognition - All dataset were retrieved from the exercise files in the course "Deep Learning: Image Recognition"
