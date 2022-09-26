@@ -1,6 +1,6 @@
 # LinkedinCourses_ML
 
-## This repository contains exercises I completed from multiple Linkedin Learning courses I tried.
+## This repository contains exercises I completed from multiple Linkedin Learning courses I tried regarding Machine Learning, Depp Learning and Data Science.
 
 The course paths are:
 1) Become a Machine Learning Specialist (sections 1-4)
