@@ -2,5 +2,6 @@ datasets
 venv
 outputs
 logs
+node_modules
 *.jpg
 *.png
