@@ -12,10 +12,10 @@ The course paths are:
 * decision_trees -> Machine Learning and AI Foundations: Decision Trees with SPSS
 * recommendation_system -> Building a Recommendation System with Python Machine Learning & AI
 * working_with_keras -> Building Deep Learning Applications with Keras 2.0
-* face_recognition - Deep Learning: Face Recognition
-* image_recognition - Deep Learning: Image Recognition
-* tensorflow_js - Learning TensorFlow with JavaScript
-* nlp_essentials - NLP with Python for Machine Learning Essential Training
+* face_recognition -> Deep Learning: Face Recognition
+* image_recognition -> Deep Learning: Image Recognition
+* tensorflow_js -> Learning TensorFlow with JavaScript
+* nlp_essentials -> NLP with Python for Machine Learning Essential Training
 
 ### Datasets Sources:
 
